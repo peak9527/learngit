@@ -5,3 +5,4 @@ Creating a new branch is quick AND simple.
 do something
 
 test remote
+test remote second time
